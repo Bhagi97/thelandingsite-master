@@ -1,0 +1,43 @@
+h2{
+	font-family: 'Lato', cursive;
+	font-size: 30px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color=#FFFFFF)";/*IE 8*/
+	text-shadow: 4px 4px 4px rgba(255,255,255,0.5);/* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color=#FFFFFF); /*IE 5.5-7*/
+}
+.container{
+font-family: 'Armata', sans-serif;
+
+}
+.listgroup{
+
+}
+#sidelist{
+
+	height: 100%;
+	margin-top:20px;
+}
+#sidelist ul .list-group-item {
+	border-radius: 5px;
+}
+.panel-heading{
+	border-radius: 5px;
+}
+
+
+#qanda {
+	
+}
+.question{
+	list-style: none;
+}
+.answer{
+	display: table-row;
+}
+.radioinput{
+	display:table-cell;
+}
+.options{
+	padding-left:15px;
+	display: table-cell;
+}
